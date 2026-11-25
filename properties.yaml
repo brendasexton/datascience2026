@@ -1,0 +1,16 @@
+moodle         : https://moodle.wit.ie/course/view.php?id=209670
+credits        : Dr. Brenda Mullally, WIT Computing
+#slack         : https://business-analytics-1.slack.Computing
+#zoom         :
+#auth      : 1
+ignorepin      : 1221
+ignore     :
+#- topic-00-CA
+- topic-00-pandas
+#- topic-01-Introduction
+#- topic-02-Data-Management-1
+#- topic-03-Data-Management-2
+#- topic-04-Visualisation
+#- topic-05-Diagnostic-Analysis
+#- topic-06-Predictive-Analysis
+

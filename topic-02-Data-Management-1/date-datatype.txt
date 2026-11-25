@@ -1,0 +1,22 @@
+Due to the change in dataset for your CA you now have a date column that I have not shown you in labs how to deal with dates (something I will add in) so for now this is my instruction:
+At the moment when you load the csv the date column shows as an object data type in python. (check by using .dtypes on the column). This means is is just contains a string of data. In order to effectively analyse dates and have them present effectively in charts we need to convert it to a date datatype.
+First we need to import in date time conversions between pandas and matplotlib
+
+from pandas.plotting import register_matplotlib_converters
+register_matplotlib_converters()
+
+//Now we can parse the date column as it is loaded from the csv file.
+
+covid_data = pandas.read_csv('owid-covid-data.csv', parse_dates=['date'],low_memory=False)
+
+//have a look at the info about the dataset and the top few rows
+
+
+covid_data.head()
+covid_data.info()
+
+//you should see the date displayed in YYYY-MM-DD format
+//now when you plot the date as part of a chart e.g on X-axis the labels will be easier to read as Python knows to only show incremental values using datetime rather than plotting each and every date value.
+
+
+

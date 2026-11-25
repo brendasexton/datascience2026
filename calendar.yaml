@@ -1,0 +1,44 @@
+title: Data Analytics
+weeks :
+  - 2026-01-19:
+      title : 1
+      type : Data Science Introduction
+  - 2026-01-26:
+      title : 2
+      type : Data Management 1
+  - 2026-02-02:
+      title : 3
+      type : Data Management 2
+  - 2026-02-09:
+      title : 4
+      type : Data Visualisation 
+  - 2026-02-16:
+      title : Midterm
+      type : Reading Week
+  - 2026-02-23:
+      title : 5
+      type : Data Visualisation 2
+  - 2026-03-02:
+      title : 6
+      type : Diagnostic Analytics 
+  - 2026-03-09:
+      title : 7
+      type : Predictive Analytics
+  - 2026-03-16:
+      title : 8
+      type : Predictive Analytics
+  - 2026-03-23:
+      title : 9
+      type : Predictive Analytics
+  - 2026-03-30:
+      title : Easter
+      type : Easter break
+  - 2026-04-13:
+      title : 10
+      type : Predictive Analytics
+  - 2026-04-20:
+      title : 11
+      type : CA 
+  - 2026-04-27:
+      title : 12
+      type : Interviews
