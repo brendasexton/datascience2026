@@ -1,3 +1,0 @@
-#Regression
-
-Predicting a value
